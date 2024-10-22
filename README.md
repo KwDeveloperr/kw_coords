@@ -16,6 +16,7 @@ Este script muestra las coordenadas en pantalla con una interfaz visualmente atr
 ![Interfaz Principal](https://i.postimg.cc/CBvbxGcX/image.png)
 
 ![Interfaz Principal](https://i.postimg.cc/mZ38hfWt/Captura-de-pantalla-2024-10-22-154659.png)
+![Interfaz Principal](https://i.postimg.cc/CBvbxGcX/image.png)
 
 ## ⚙️ Instalación
 
