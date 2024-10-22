@@ -1,7 +1,5 @@
 # Coordenadas con Interfaz Animada
 
-![Interfaz de Coordenadas](https://i.postimg.cc/MHw5ttV6/image.png)
-
 Este script muestra las coordenadas en pantalla con una interfaz visualmente atractiva, que incluye iconos animados y una integración dinámica con Discord. Es ideal para utilizar en servidores de **FiveM**, ofreciendo una experiencia intuitiva con una gama de colores personalizables: blanco, negro, azul celeste, y más.
 
 ## ✨ Características
@@ -13,10 +11,10 @@ Este script muestra las coordenadas en pantalla con una interfaz visualmente atr
 
 ## 📸 Capturas de Pantalla
 
-![Interfaz Principal](https://your-image-link.com/screenshot1.png)
+![Interfaz Principal](https://i.postimg.cc/CBvbxGcX/image.png)
 *Interfaz principal mostrando las coordenadas con iconos animados.*
 
-![Tema Oscuro](https://your-image-link.com/screenshot2.png)
+![Tema Oscuro](https://i.postimg.cc/5j0wkr0V/Captura-de-pantalla-2024-10-22-154659.png)
 *Modo oscuro con iconos en movimiento y estilo minimalista.*
 
 ## ⚙️ Instalación
