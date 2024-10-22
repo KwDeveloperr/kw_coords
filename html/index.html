@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orion Coords</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="coords-container" id="coordsUI" style="display: none;">
+        <div class="navbar">
+            <div class="nav-item active">
+                <img class="icon" src="img/icono.webp" alt="Coords Icon">
+                <span class="nav-title">COORDENADAS</span>
+            </div>
+            <div class="avatar-container">
+                <img id="userAvatar" class="avatar" src="img/user.jpg" >
+            </div>
+        </div>
+
+        <div class="coords-box">
+            <label for="coords">XYZ</label>
+            <div class="input-group">
+                <input id="coords" type="text" value="250.0427, -605.609, 42.629" readonly>
+                <button class="copy-btn" onclick="copyText('coords')"><img style="width: 30px; height: 30px;" src="img/copy.webp" alt="Copy"></button>
+            </div>
+
+            <label for="vector3">Vector3</label>
+            <div class="input-group">
+                <input id="vector3" type="text" value="vector3(250.0427, -605.609, 42.629)" readonly>
+                <button class="copy-btn" onclick="copyText('vector3')"><img style="width: 30px; height: 30px;" src="img/copy.webp" alt="Copy"></button>
+            </div>
+
+            <label for="vector4">Vector4</label>
+            <div class="input-group">
+                <input id="vector4" type="text" value="vector4(250.0427, -605.609, 42.629, 0.0)" readonly>
+                <button class="copy-btn" onclick="copyText('vector4')"><img style="width: 30px; height: 30px;" src="img/copy.webp" alt="Copy"></button>
+            </div>
+
+            <label for="heading">Heading</label>
+            <div class="input-group">
+                <input id="heading" type="text" value="0" readonly>
+                <button class="copy-btn" onclick="copyText('heading')"><img style="width: 30px; height: 30px;" src="img/copy.webp" alt="Copy"></button>
+            </div>
+
+            <button class="close-btn" onclick="closeUI()">CERRAR</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
