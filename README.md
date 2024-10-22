@@ -14,10 +14,8 @@ Este script muestra las coordenadas en pantalla con una interfaz visualmente atr
 ## 📸 Capturas de Pantalla
 
 ![Interfaz Principal](https://i.postimg.cc/CBvbxGcX/image.png)
-*Interfaz principal mostrando las coordenadas con iconos animados.*
 
-![Tema Oscuro](https://i.postimg.cc/mZ38hfWt/Captura-de-pantalla-2024-10-22-154659.png)
-*Modo oscuro con iconos en movimiento y estilo minimalista.*
+![Interfaz Principal](https://i.postimg.cc/mZ38hfWt/Captura-de-pantalla-2024-10-22-154659.png)
 
 ## ⚙️ Instalación
 
